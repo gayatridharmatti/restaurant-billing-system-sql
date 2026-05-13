@@ -130,7 +130,7 @@ Restaurant-Billing-System-SQL/
 
 # Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard/dashboard.png)
 
 ---
 
