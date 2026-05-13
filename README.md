@@ -130,7 +130,7 @@ Restaurant-Billing-System-SQL/
 
 # Dashboard Preview
 
-(dashboard.png)
+dashboard.png
 
 ---
 
